@@ -1,0 +1,15 @@
+C:\Projetos\Projetos-CSharp\RPG-GFT\bin\Debug\net6.0\RPG-GFT.exe
+C:\Projetos\Projetos-CSharp\RPG-GFT\bin\Debug\net6.0\RPG-GFT.deps.json
+C:\Projetos\Projetos-CSharp\RPG-GFT\bin\Debug\net6.0\RPG-GFT.runtimeconfig.json
+C:\Projetos\Projetos-CSharp\RPG-GFT\bin\Debug\net6.0\RPG-GFT.dll
+C:\Projetos\Projetos-CSharp\RPG-GFT\bin\Debug\net6.0\ref\RPG-GFT.dll
+C:\Projetos\Projetos-CSharp\RPG-GFT\bin\Debug\net6.0\RPG-GFT.pdb
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\RPG-GFT.csproj.AssemblyReference.cache
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\RPG-GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\RPG-GFT.AssemblyInfoInputs.cache
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\RPG-GFT.AssemblyInfo.cs
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\RPG-GFT.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\RPG-GFT.dll
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\ref\RPG-GFT.dll
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\RPG-GFT.pdb
+C:\Projetos\Projetos-CSharp\RPG-GFT\obj\Debug\net6.0\RPG-GFT.genruntimeconfig.cache
